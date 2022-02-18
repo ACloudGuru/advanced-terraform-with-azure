@@ -1,1 +1,1 @@
-### Advanced Terraform With Azure
+### Course - Advanced Terraform with Azure
