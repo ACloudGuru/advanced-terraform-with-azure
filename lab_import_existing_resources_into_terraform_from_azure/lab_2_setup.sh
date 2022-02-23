@@ -5,3 +5,4 @@ unzip terraform_1.1.6_linux_amd64.zip
 mkdir bin
 mv terraform bin/
 mkdir terraform
+wget https://github.com/ACloudGuru/advanced-terraform-with-azure/blob/main/lab_import_existing_resources_into_terraform_from_azure/providers.tf
