@@ -8,3 +8,4 @@ mkdir terraform
 wget https://raw.githubusercontent.com/ACloudGuru/advanced-terraform-with-azure/main/lab_import_existing_resources_into_terraform_from_azure/providers.tf
 mv providers.tf terraform/
 rm -rf terraform_1.1.6_linux_amd64.zip
+rm -rf lab_2_setup.sh
