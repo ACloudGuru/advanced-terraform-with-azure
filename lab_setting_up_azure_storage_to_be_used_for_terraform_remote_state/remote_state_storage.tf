@@ -1,5 +1,8 @@
 # Import the Resource Group
-resource "azurerm_resource_group" "guru" {}
+resource "azurerm_resource_group" "guru" {
+  name     = "<RESOURCE_GROUP_NAME>"
+  location = "<LOCATION>"
+}
 
 # Creates random string for the Unique ID for the Azure Storage Account Name
 resource "random_string" "resource_code" {
