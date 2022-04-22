@@ -10,6 +10,6 @@ resource "azurerm_resource_group" "guru" {
   #name     = "<RESOURCE_GROUP>"
   #location = "<LOCATION>"
   #tags     = {
-  #  environment = "demo"
+  #  environment = "dev"
   #}
 }
