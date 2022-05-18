@@ -8,12 +8,6 @@
        version = "~>2.0"
      }
    }
-   backend "azurerm" {
-    resource_group_name  = "664-242579a4-create-an-aks-cluster-in-azure-with-t"
-    storage_account_name = "tfstatexxuib"
-    container_name       = "tfstate"
-    key                  = "tfstate"
-  }
  }
 
  provider "azurerm" {
