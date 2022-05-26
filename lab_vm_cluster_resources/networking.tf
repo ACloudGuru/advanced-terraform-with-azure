@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "comics" {
-   name     = "659-dfff287d-create-a-vm-cluster-in-azure-with-ter"
-   location = "westus"
+   #name     = "<RESOURCE_GROUP_NAME>"
+   #location = "<RESOURCE_GROUP_LOCATION>"
  }
 
  resource "azurerm_virtual_network" "comics" {
